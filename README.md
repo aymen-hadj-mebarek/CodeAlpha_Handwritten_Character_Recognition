@@ -6,7 +6,7 @@ This project, completed as part of an internship with AlphaCode, focuses on reco
 
 ## Dataset
 
-The dataset used contains handwritten characters and can be accessed here.
+The dataset used contains handwritten characters and can be accessed [here](https://www.kaggle.com/datasets/sachinpatel21/az-handwritten-alphabets-in-csv-format/data).
 
 ## Steps
 
