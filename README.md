@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project, completed as part of an internship with CodeAlpha, focuses on recognizing handwritten alphabetic characters using a Convolutional Neural Network (CNN). The dataset used contains 372,450 rows of handwritten character images. The workflow involves building a model for single character recognition and applying it to recognize characters in words extracted from images using OpenCV.
+This project focuses on recognizing handwritten alphabetic characters using a Convolutional Neural Network (CNN). The dataset used contains 372,450 rows of handwritten character images. The workflow involves building a model for single character recognition and applying it to recognize characters in words extracted from images using OpenCV.
 
 ## Dataset
 
